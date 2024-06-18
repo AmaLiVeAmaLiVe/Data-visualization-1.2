@@ -1,1 +1,5 @@
 # Data-visualization-1.2
+
+(CZ) Předmět poskytuje přehled o typech a vlastnostech dat a vhodných vizualizačních metodách, díky kterým studenti lépe porozumí datům, jejich obsahu a také jejich využití pro oblasti jako jsou data mining a strojové učení. V předmětu se studenti seznámí s explorační analýzou, předzpracováním dat, s možnostmi, jak vizualizovat různé druhy dat, jako jsou např. texty, sociální sítě, časové řady nebo se základy práce s obrazovými daty. Studenti si osvojí některé vybrané metody na praktických příkladech v programovacím jazyce Python.
+
+(EN) The course provides an overview of the types and properties of data and appropriate visualization methods to help students better understand data, its content, and its use for areas such as data mining and machine learning. In this course, students will learn about exploratory analysis, data preprocessing, how to visualize different types of data such as text, social networks, time series, or the basics of working with image data. Students will learn some selected methods through practical examples in the Python programming language.
